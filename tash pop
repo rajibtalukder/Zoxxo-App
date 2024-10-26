@@ -1,0 +1,101 @@
+[33mcommit 17b8945a8ce6d641a34df56886e8725614f5ef32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mauthentication_ui_setup[m[33m, [m[1;31morigin/authentication_ui_setup[m[33m)[m
+Author: Musfiquar Rahaman Shanta <mrshanta420@gmail.com>
+Date:   Fri Sep 20 20:04:00 2024 +0600
+
+    fix lotti file
+
+[33mcommit 33bd51641d737c3930d506c329e8e15f9f7d784c[m
+Author: Musfiq Shanta <mrshanta420@gmail.com>
+Date:   Fri Sep 20 17:21:41 2024 +0600
+
+    fix logo
+
+[33mcommit 29a83d17aefeb121c02e5327ece5de1e2d3b145a[m
+Author: Musfiquar Rahaman Shanta <mrshanta420@gmail.com>
+Date:   Fri Sep 20 17:14:22 2024 +0600
+
+    fix landign page and logo
+
+[33mcommit 3a03d0a845f609f89d2371cbca43de55f499d612[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Fri Sep 20 11:30:27 2024 +0600
+
+    loyal Stroage and Dark mode
+
+[33mcommit 246a4b1083ba5e41b1ff3b5dd7972872f7a0dce4[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Wed Sep 18 23:13:07 2024 +0600
+
+    signup password validation and home ui
+
+[33mcommit 5d6e696d8dfb055771408a7583f0ad9273044b3a[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Tue Sep 17 17:29:16 2024 +0600
+
+    bug fixed and upload file feature added
+
+[33mcommit 57562775ee812ca1cecdd74e1dbe28ff75d3863e[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Sat Sep 14 00:46:25 2024 +0600
+
+    new password page added
+
+[33mcommit 939e13737d55df1fa54ea7e9634cf17ec680b0fb[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Fri Sep 13 11:36:00 2024 +0600
+
+    signin,signup and forgot screen
+
+[33mcommit cc0012a1880d60007688af7d2603e751189d317f[m[33m ([m[1;31morigin/Landing-Page-Setup[m[33m, [m[1;32mLanding-Page-Setup[m[33m)[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Tue Sep 10 00:05:07 2024 +0600
+
+    smooth_page_indicator added
+
+[33mcommit 8eb5052fa74ceea58d391019c88306eaafe692fe[m
+Merge: 9bff91c 6898bf9
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Sat Sep 7 16:14:28 2024 +0600
+
+    Merge remote-tracking branch 'origin/Landing-Page-Setup' into Landing-Page-Setup
+    
+    # Conflicts:
+    #       lib/app/modules/splash/views/landing_view1.dart
+    #       lib/app/modules/splash/views/landing_view2.dart
+    #       lib/app/modules/splash/views/landing_view3.dart
+
+[33mcommit 9bff91c4dd123ec5354a2190eccf09aa47993049[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Sat Sep 7 16:13:34 2024 +0600
+
+    PageView Added and fixed issues
+
+[33mcommit 6898bf9e246002f4abb9bbf10cae4677a70ebeed[m
+Author: Musfiquar Rahaman Shanta <mrshanta420@gmail.com>
+Date:   Fri Sep 6 23:37:18 2024 +0600
+
+    fix design issue
+
+[33mcommit 302d066a732363f9e905434a07c61dabf7fbbf98[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Fri Sep 6 15:49:58 2024 +0600
+
+    Welcome Page added
+
+[33mcommit fba6a04da08a8c061de58625c00275dac773a722[m
+Author: rajib talukder <rajibtalukder392@gmail.com>
+Date:   Fri Sep 6 12:21:25 2024 +0600
+
+    first
+
+[33mcommit d45a6a7784107e4cb2cb72797b84560e3729ccf1[m[33m ([m[1;31morigin/Authentication-API-setup[m[33m)[m
+Author: Musfiquar Rahaman Shanta <mrshanta420@gmail.com>
+Date:   Wed Sep 4 14:59:04 2024 +0600
+
+    Authentication API set up
+
+[33mcommit 387694f599ce16d112f33b2a90683264f83a64e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Project-Structure-Setup[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Musfiquar Rahaman Shanta <mrshanta420@gmail.com>
+Date:   Sun Aug 18 11:25:49 2024 +0600
+
+    initial set up

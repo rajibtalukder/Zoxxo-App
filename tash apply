@@ -1,0 +1,23 @@
+[33m17b8945[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mauthentication_ui_setup[m[33m, [m[1;31morigin/authentication_ui_setup[m[33m)[m HEAD@{0}: pull: Fast-forward
+[33m33bd516[m HEAD@{1}: reset: moving to HEAD
+[33m33bd516[m HEAD@{2}: merge origin/authentication_ui_setup: Fast-forward
+[33m3a03d0a[m HEAD@{3}: commit: loyal Stroage and Dark mode
+[33m246a4b1[m HEAD@{4}: commit: signup password validation and home ui
+[33m5d6e696[m HEAD@{5}: commit: bug fixed and upload file feature added
+[33m5756277[m HEAD@{6}: commit: new password page added
+[33m939e137[m HEAD@{7}: commit: signin,signup and forgot screen
+[33mcc0012a[m[33m ([m[1;31morigin/Landing-Page-Setup[m[33m, [m[1;32mLanding-Page-Setup[m[33m)[m HEAD@{8}: checkout: moving from Landing-Page-Setup to authentication_ui_setup
+[33mcc0012a[m[33m ([m[1;31morigin/Landing-Page-Setup[m[33m, [m[1;32mLanding-Page-Setup[m[33m)[m HEAD@{9}: commit: smooth_page_indicator added
+[33m8eb5052[m HEAD@{10}: commit (amend): Merge remote-tracking branch 'origin/Landing-Page-Setup' into Landing-Page-Setup
+[33m3f05da7[m HEAD@{11}: commit (merge): Merge remote-tracking branch 'origin/Landing-Page-Setup' into Landing-Page-Setup
+[33m9bff91c[m HEAD@{12}: commit: PageView Added and fixed issues
+[33m302d066[m HEAD@{13}: commit: Welcome Page added
+[33mfba6a04[m HEAD@{14}: commit (amend): first
+[33m7e65753[m HEAD@{15}: commit (amend): first
+[33mbcc68b4[m[33m ([m[1;32mmain[m[33m)[m HEAD@{16}: rebase (finish): returning to refs/heads/Landing-Page-Setup
+[33mbcc68b4[m[33m ([m[1;32mmain[m[33m)[m HEAD@{17}: rebase (start): checkout refs/heads/main
+[33m4bb46aa[m HEAD@{18}: commit (amend): landing
+[33m387694f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Project-Structure-Setup[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{19}: checkout: moving from main to Landing-Page-Setup
+[33mbcc68b4[m[33m ([m[1;32mmain[m[33m)[m HEAD@{20}: commit: first
+[33md45a6a7[m[33m ([m[1;31morigin/Authentication-API-setup[m[33m)[m HEAD@{21}: pull --no-stat -v --progress origin Authentication-API-setup: Fast-forward
+[33m387694f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Project-Structure-Setup[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{22}: clone: from https://github.com/musfiqshanta/zoxxo.git
